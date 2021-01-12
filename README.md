@@ -5,11 +5,11 @@
  
 #### 📫 How to reach me: enzo@barrettinfo.tech
 
-#### My Sites / Projects:
+#### My Sites / Projects :computer::
 
-[enzobarrett.dev](enzobarrett.dev)
-[photo.enzobarrett.dev](photo.enzobarrett.dev)
-[barrettinfo.tech](barrettinfo.tech)
-[simpsons.enzobarrett.dev](simpsons.enzobarrett.dev)
-[short.enzobarrett.dev](short.enzobarrett.dev)
+#### [enzobarrett.dev](enzobarrett.dev)<br>
+#### [photo.enzobarrett.dev](photo.enzobarrett.dev)<br>
+#### [barrettinfo.tech](barrettinfo.tech)<br>
+#### [simpsons.enzobarrett.dev](simpsons.enzobarrett.dev)<br>
+#### [short.enzobarrett.dev](short.enzobarrett.dev)<br>
 

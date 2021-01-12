@@ -3,6 +3,7 @@
  My Name is Enzo, and I'm a Music Performance and Computer Science double major at Colorado State University! Go Rams!
 
 <img src="https://www.engr.colostate.edu/wp-content/uploads/2017/11/CSU-Ram-357.png" alt="Colorado State University" width="100">
+
 ![enzobarrett's github stats](https://github-readme-stats.vercel.app/api?username=enzobarrett&count_private=true)
 
 - 🔭 I’m currently working on ...

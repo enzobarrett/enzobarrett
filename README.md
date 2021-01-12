@@ -1,8 +1,10 @@
-### Welcome to my Github profile! 
+## Welcome to my Github profile! 
 
-My Name is Enzo, and I'm a Music Performance and Computer Science double major at Colorado State University!
+### My Name is Enzo, and I'm a Music Performance and Computer Science double major at Colorado State University!
+
 <img src="https://www.engr.colostate.edu/wp-content/uploads/2017/11/CSU-Ram-357.png" alt="Colorado State University" width="100">
-Go Rams!
+
+## Go Rams!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

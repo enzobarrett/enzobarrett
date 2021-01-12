@@ -7,7 +7,7 @@
 
 #### My Sites / Projects:
 
-()[enzobarrett.dev]
+(enzobarrett.dev)[enzobarrett.dev]
 ()[photo.enzobarrett.dev]
 ()[barrettinfo.tech]
 ()[simpsons.enzobarrett.dev]

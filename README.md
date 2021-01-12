@@ -7,9 +7,9 @@
 
 #### My Sites / Projects:
 
-enzobarrett.dev
-[](photo.enzobarrett.dev)
-()[barrettinfo.tech]
-()[simpsons.enzobarrett.dev]
-()[short.enzobarrett.dev]
+[enzobarrett.dev](enzobarrett.dev)
+[photo.enzobarrett.dev](photo.enzobarrett.dev)
+[barrettinfo.tech](barrettinfo.tech)
+[simpsons.enzobarrett.dev](simpsons.enzobarrett.dev)
+[short.enzobarrett.dev](short.enzobarrett.dev)
 

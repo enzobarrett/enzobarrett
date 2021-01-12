@@ -7,7 +7,12 @@
 
 #### My Sites / Projects:
 enzobarrett.dev
+
 photo.enzobarrett.dev
+
 barrettinfo.tech
+
 simpsons.enzobarrett.dev
+
 short.enzobarrett.dev
+

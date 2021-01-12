@@ -6,13 +6,10 @@
 #### 📫 How to reach me: enzo@barrettinfo.tech
 
 #### My Sites / Projects:
-enzobarrett.dev
 
-photo.enzobarrett.dev
-
-barrettinfo.tech
-
-simpsons.enzobarrett.dev
-
-short.enzobarrett.dev
+()[enzobarrett.dev]
+()[photo.enzobarrett.dev]
+()[barrettinfo.tech]
+()[simpsons.enzobarrett.dev]
+()[short.enzobarrett.dev]
 

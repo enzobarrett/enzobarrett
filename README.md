@@ -15,3 +15,5 @@
 [simpsons.enzobarrett.dev](simpsons.enzobarrett.dev)<br>
 [short.enzobarrett.dev](short.enzobarrett.dev)<br>
 
+[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobarrett)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -12,8 +12,7 @@
 [enzobarrett.dev](https://enzobarrett.dev)<br>
 [photo.enzobarrett.dev](https://photo.enzobarrett.dev)<br>
 [barrettinfo.tech](https://barrettinfo.tech)<br>
-[simpsons.enzobarrett.dev](https://simpsons.enzobarrett.dev)<br>
-[short.enzobarrett.dev](https://short.enzobarrett.dev)<br>
+[clip.enzobarrett.dev](https://clip.enzobarrett.dev)<br>
 
 [![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobarrett)](https://github.com/anuraghazra/github-readme-stats)
 

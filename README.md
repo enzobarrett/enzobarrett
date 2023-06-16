@@ -14,5 +14,3 @@
 [barrettinfo.tech](https://barrettinfo.tech)<br>
 [clip.enzobarrett.dev](https://clip.enzobarrett.dev)<br>
 
-[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobarrett)](https://github.com/anuraghazra/github-readme-stats)
-
